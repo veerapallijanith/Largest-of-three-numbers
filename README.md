@@ -60,5 +60,7 @@ namespace lg
 ```
 
 ## Output:
+![image](https://github.com/veerapallijanith/Largest-of-three-numbers/blob/main/exp%201%20jc%23.jpg)
 
 ## Result:
+Thus the C# program to find the largest of three numbers is executed successfully
